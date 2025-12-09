@@ -25,7 +25,7 @@ const uiKitSettings = new UIKitSettingsBuilder()
 CometChatUIKit.init(uiKitSettings)?.then(() => {
   setupLocalization();
 
-  const UID = "cometchat-uid-3"; // Replace with your actual user ID (e.g., "user1", "user2", etc.)
+  const UID = "cometchat-uid-4"; // Replace with your actual user ID (e.g., "user1", "user2", etc.)
 
   CometChatUIKit.getLoggedinUser().then((user: CometChat.User | null) => {
     if (!user) {
