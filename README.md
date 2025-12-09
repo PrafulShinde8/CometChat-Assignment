@@ -9,7 +9,7 @@
   <img alt="vite" src="https://img.shields.io/badge/vite-supported-646CFF?logo=vite" />
   <img alt="typescript" src="https://img.shields.io/badge/typescript-supported-blue" />
 </p>
-
+[Play demo video](./assets/demo-video.mp4)
 # Integration steps for UI Kit Builder
 
 Follow these steps to integrate it into your existing React project:
