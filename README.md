@@ -270,7 +270,7 @@ If your development server is running, restart it to ensure the new TypeScript c
 
 For detailed steps, refer to our <a href="https://www.cometchat.com/docs/ui-kit/react/builder-integration" target="_blank">UI Kit Builder documentation</a> -->
 
-[![Watch demo](./src/assets/CometChat%20Integration%20Video.mp4)
+
 CometChat Internship Task – React UI Kit Integration
 
 This repository contains my submission for the CometChat Internship Task, where I worked with the CometChat Dashboard, UI Kit Builder, React Integration, feature configuration, and documentation analysis.
