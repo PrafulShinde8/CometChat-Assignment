@@ -378,20 +378,6 @@ npm start
 
 📸 Screenshots / Video
 
-Add your screenshots here, for example:
-
-/screenshots
-   dashboard.png
-   users.png
-   builder.png
-   integration.png
-   running-app.png
-
-
-Or embed them:
-
-![Dashboard](screenshots/dashboard.png)
-![Chat UI](screenshots/chat-ui.png)
 
 🧪 Test Users Used
 
